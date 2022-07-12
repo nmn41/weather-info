@@ -1,0 +1,26 @@
+{
+  "name": "greeter",
+  "version": "0.0.0",
+  "description": "A sample pacakge for demonstrating js deps management.",
+  "main": "greeter.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarkBennett/greeter.git"
+  },
+  "keywords": [
+    "demo",
+    "greeter"
+  ],
+  "author": "Mark Bennett <mark@burmis.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarkBennett/greeter/issues"
+  },
+  "homepage": "https://github.com/MarkBennett/greeter",
+  "dependencies": {
+    "q": "^1.0.1"
+  }
+}
